@@ -19,7 +19,7 @@ Brief Introduction
 - Utilized spatiotemporal sequence prediction models to address the problem of accurately predicting cloud changes and weather conditions.
 - Extracted spatiotemporal features from cloud video data to learn dynamic movement patterns of cloud layers.
 
-### :flask:Prototype-based Dual-Dimensional Knowledge Distillation for Online Continual Learning  
+### 🧪Prototype-based Dual-Dimensional Knowledge Distillation for Online Continual Learning  
 **Duration:** 2024.11--2025.02  
 **Role:** First Author  
 - Proposed an optimization method combining prototype-based dual-dimensional knowledge distillation to balance model learning ability and forgetting resistance in online continual learning.
