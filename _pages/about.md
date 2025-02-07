@@ -1,21 +1,31 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 Brief Introduction
 ======
 :relaxed:I am a third-year undergraduate student majoring in Software Engineering at Harbin Institute of Technology. My research interests include continual learning, video and image processing, image generation, and multimodal learning. At my university, I have participated in research at the ICES Lab under the guidance of [Prof. Chunshan Li](https://homepage.hit.edu.cn/lichunshan?lang=zh). Additionally, I have interned at Westlake University advised by [Prof. Ziqing Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html), and at the OV³Lab at Peking University advised by [Prof. Jiahuan Zhou](https://www.icst.pku.edu.cn/xztd/xztd_01/1354287.htm).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Research Experience
+
+### Deep Priors Driven Posterior Sampling in Diffusion Models  
+**Duration:** 2024.03--2024.06  
+**Role:** Core Member  
+- Proposed a deep prior-driven method to address the linear inverse problem in diffusion models.
+- Improved image restoration capability by guiding the diffusion process with deep neural networks.
+- Conducted denoising, inpainting, and colorization experiments on the FFHQ face dataset, using PSNR and LPIPS as evaluation metrics, and achieved better performance compared to previous works.
+
+### National College Student Innovation Training Project — Remote Sensing Meteorological Video Prediction  
+**Duration:** 2024.03--2024.06  
+**Role:** Core Member  
+- Utilized spatiotemporal sequence prediction models to address the problem of accurately predicting cloud changes and weather conditions.
+- Extracted spatiotemporal features from cloud video data to learn dynamic movement patterns of cloud layers.
+
+### Prototype-based Dual-Dimensional Knowledge Distillation for Online Continual Learning  
+**Duration:** 2024.11--2025.02  
+**Role:** First Author  
+- Proposed an optimization method combining prototype-based dual-dimensional knowledge distillation to balance model learning ability and forgetting resistance in online continual learning.
+- Conducted classification experiments on standard datasets like CIFAR-100, demonstrating superior performance in terms of average accuracy and forgetting rate compared to existing baseline models.
+- The paper is currently under review for a CCF-C conference.
+
 
 Getting started
 ======
