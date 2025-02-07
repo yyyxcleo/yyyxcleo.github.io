@@ -1,25 +1,25 @@
 
 Brief Introduction
 ======
-:relaxed:I am a third-year undergraduate student majoring in Software Engineering at Harbin Institute of Technology. My research interests include continual learning, video and image processing, image generation, and multimodal learning. At my university, I have participated in research at the ICES Lab under the guidance of [Prof. Chunshan Li](https://homepage.hit.edu.cn/lichunshan?lang=zh). Additionally, I have interned at Westlake University advised by [Prof. Ziqing Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html), and at the OV³Lab at Peking University advised by [Prof. Jiahuan Zhou](https://www.icst.pku.edu.cn/xztd/xztd_01/1354287.htm).
+☺️I am a third-year undergraduate student majoring in Software Engineering at Harbin Institute of Technology. My research interests include continual learning, video and image processing, image generation, and multimodal learning. At my university, I have participated in research at the ICES Lab under the guidance of [Prof. Chunshan Li](https://homepage.hit.edu.cn/lichunshan?lang=zh). Additionally, I have interned at Westlake University advised by [Prof. Ziqing Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html), and at the OV³Lab at Peking University advised by [Prof. Jiahuan Zhou](https://www.icst.pku.edu.cn/xztd/xztd_01/1354287.htm).
 
 
 ## Research Experience
 
-### Deep Priors Driven Posterior Sampling in Diffusion Models  
+### 🌈Deep Priors Driven Posterior Sampling in Diffusion Models  
 **Duration:** 2024.03--2024.06  
 **Role:** Core Member  
 - Proposed a deep prior-driven method to address the linear inverse problem in diffusion models.
 - Improved image restoration capability by guiding the diffusion process with deep neural networks.
 - Conducted denoising, inpainting, and colorization experiments on the FFHQ face dataset, using PSNR and LPIPS as evaluation metrics, and achieved better performance compared to previous works.
 
-### National College Student Innovation Training Project — Remote Sensing Meteorological Video Prediction  
+### 📹National College Student Innovation Training Project — Remote Sensing Meteorological Video Prediction  
 **Duration:** 2024.03--2024.06  
 **Role:** Core Member  
 - Utilized spatiotemporal sequence prediction models to address the problem of accurately predicting cloud changes and weather conditions.
 - Extracted spatiotemporal features from cloud video data to learn dynamic movement patterns of cloud layers.
 
-### Prototype-based Dual-Dimensional Knowledge Distillation for Online Continual Learning  
+### :flask:Prototype-based Dual-Dimensional Knowledge Distillation for Online Continual Learning  
 **Duration:** 2024.11--2025.02  
 **Role:** First Author  
 - Proposed an optimization method combining prototype-based dual-dimensional knowledge distillation to balance model learning ability and forgetting resistance in online continual learning.
