@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Brief Introduction
 ======
 :relaxed:I am a third-year undergraduate student majoring in Software Engineering at Harbin Institute of Technology. My research interests include continual learning, video and image processing, image generation, and multimodal learning. At my university, I have participated in research at the ICES Lab under the guidance of [Prof. Chunshan Li](https://homepage.hit.edu.cn/lichunshan?lang=zh). Additionally, I have interned at Westlake University advised by [Prof. Ziqing Li](https://www.westlake.edu.cn/faculty/stan-zq-li.html), and at the OV³Lab at Peking University advised by [Prof. Jiahuan Zhou](https://www.icst.pku.edu.cn/xztd/xztd_01/1354287.htm).
