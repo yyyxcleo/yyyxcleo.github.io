@@ -1,13 +1,10 @@
 ---
-
 permalink: /
 title: "Brief Introduction"
 author_profile: true
-redirect_from: 
-/about 
-/about.html
-
-
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 I am currently a Master's student in **Computer Technology at Tsinghua University**, with research interests in **Multimodal Large Language Models (MLLMs)** and **LLM Agents**. Before joining Tsinghua, I received my B.Eng. degree in **Software Engineering from Harbin Institute of Technology (HIT)**, where I ranked **1st in my major** and was recommended for graduate study at Tsinghua University.
