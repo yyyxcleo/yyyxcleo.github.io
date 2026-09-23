@@ -24,23 +24,23 @@ author_profile: true
 
 ### Looking Back and Forth: Cross-Image Attention Calibration and Attentive Preference Learning for Multi-Image Hallucination Mitigation
 
-**Xiaochen Yang***, Hao Fang*, Jiawei Kong, Yaoxin Mao, Bin Chen, Shu-Tao Xia
+**Xiaochen Yang**#, Hao Fang#, Jiawei Kong, Yaoxin Mao, Bin Chen, Shu-Tao Xia
 *European Conference on Computer Vision (ECCV), 2026*
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-032-37592-6_15) · [**Code**](https://github.com/yyyxcleo/CAPL)
 
-<small>* Equal contribution.</small>
+<small># Equal contribution.</small>
 
 ---
 
 ### Revisiting Backdoor Attacks on LLMs: A Stealthy and Practical Poisoning Framework via Harmless Inputs
 
-Jiawei Kong*, Hao Fang*, **Xiaochen Yang***, Kuofeng Gao, Bin Chen, Shu-Tao Xia, Ke Xu, Han Qiu
+Jiawei Kong#, Hao Fang#, **Xiaochen Yang**#, Kuofeng Gao, Bin Chen, Shu-Tao Xia, Ke Xu, Han Qiu
 *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026 — Main Conference*
 
 [**Paper**](https://arxiv.org/abs/2505.17601)
 
-<small>* Equal contribution.</small>
+<small># Equal contribution.</small>
 
 ---
 
